@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Historia mundial",
+    "description": "Esta categoría abarca eventos, personajes y hechos importantes de la historia mundial. Pueden incluir preguntas sobre guerras, descubrimientos, revoluciones, líderes políticos y hitos históricos"
+  },
+  {
+    "category": "Ciencia y tecnología",
+    "description": "En esta categoría, encontrarás preguntas relacionadas con los avances científicos, los principios fundamentales de la física, la química, la biología y la tecnología. También puede incluir temas como la exploración espacial, la informática y los inventos destacados."
+  },
+  {
+    "category": "Geografía",
+    "description": "Aquí encontrarás preguntas relacionadas con los países, las capitales, los continentes, las montañas, los ríos y otros elementos geográficos del mundo. También puede incluir preguntas sobre maravillas naturales, monumentos famosos y características geográficas distintivas."
+  },
+  {
+    "category": "Cine",
+    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+  },
+  {
+    "category": "Arte y literatura",
+    "description": " Esta categoría cubre el arte, la literatura, la música clásica, la pintura, la escultura y los movimientos artísticos importantes. Pueden incluir preguntas sobre pintores famosos, escritores célebres, obras literarias y términos artísticos."
+  },
+  {
+    "category": "Deportes",
+    "description": "En esta categoría, se abordan preguntas relacionadas con una amplia variedad de deportes, como fútbol, baloncesto, tenis, béisbol, atletismo y muchos más. Pueden incluir preguntas sobre equipos, jugadores destacados, récords deportivos y eventos históricos del mundo deportivo."
+  }
+]
